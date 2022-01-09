@@ -25,20 +25,12 @@ h1.iam{
 h1.nam{
     color:lightblue;
     text-align: center;
-    padding: 0ch;
-    line-height: 0.3em;
     font-size: 59px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 span.name{
     color: rgb(39, 170, 109);
     font-size: 59px;
-}
-
-image{
-    padding-left: 55px;
-    height: 550px;
-    width:440px;
 }
 p{
     text-align: center;
@@ -92,7 +84,6 @@ p.link{
      /*padding: 2in;
      padding-left: 2in;*/
      text-align: center;
-     line-height: 0.3em;
  } 
  h1{
      color: whitesmoke;
@@ -100,7 +91,6 @@ p.link{
  }  
  p.about{
      font-size: 0.2in;
-     line-height: 0px;
      color:white;
      
 
