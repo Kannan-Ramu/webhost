@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+  }
+body{
+background-color: hsl(98, 73%, 46%);
+font-family: cursive;
+color: red;
+background-image: url('https://designshack.net/wp-content/uploads/tips-for-using-background-textures-in-web-design.jpg');
+background-repeat: no-repeat;
+
+background-position: center;
+height: 930px;
+background-size: cover;
+font-family: fantasy;
+
+}
+h1.iam{
+    color: white;
+    text-align: center;
+    padding: 0ch;
+    line-height: 0.3em;
+    font-size: 59px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1.nam{
+    color:lightblue;
+    text-align: center;
+    padding: 0ch;
+    line-height: 0.3em;
+    font-size: 59px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span.name{
+    color: rgb(39, 170, 109);
+    font-size: 59px;
+}
+
+image{
+    padding-left: 55px;
+    height: 550px;
+    width:440px;
+}
+p{
+    text-align: center;
+    color:white;
+    font-family: serif;
+    font-size: 0.2in;
+}
+p.link{
+        text-align: right;
+        color: tomato;
+        font-family:cursive;
+        font-size: 0.2in;
+      } 
+      #navlist {
+         position: absolute;
+        width: 100%;
+    }
+       
+    /* styling navlist anchor element */
+    #navlist a {
+        /*float:left;
+        display: block;*/
+        color: whitesmoke;
+        text-align: center;
+        /*padding: 12px;*/
+        text-decoration: none;
+        font-size: 15px;
+    }
+    #navlist p{
+        float:left;
+    }
+    .navlist-right{
+        float:right;
+    }
+
+    /* hover effect of navlist anchor element */
+    #navlist a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    #f1{
+        border-color: whitesmoke;
+        color: whitesmoke;
+        font-size: 0.3in;
+        border-radius: 12px;
+        background-color:transparent;
+        text-align: center;
+    }   
+ .part2{
+     font-size: 0.3in;
+     /*padding: 2in;
+     padding-left: 2in;*/
+     text-align: center;
+     line-height: 0.3em;
+ } 
+ h1{
+     color: whitesmoke;
+     font-family: sans-serif;
+ }  
+ p.about{
+     font-size: 0.2in;
+     line-height: 0px;
+     color:white;
+     
+
+ }   
+ p.about2{
+    font-size: 0.2in;
+    
+    
+
+}    
