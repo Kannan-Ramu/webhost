@@ -47,9 +47,7 @@ p.link{
       #navlist {
          position: absolute;
         width: 100%;
-    }
-       
-    /* styling navlist anchor element */
+}
     #navlist a {
         /*float:left;
         display: block;*/
@@ -65,8 +63,6 @@ p.link{
     .navlist-right{
         float:right;
     }
-
-    /* hover effect of navlist anchor element */
     #navlist a:hover {
         background-color: #ddd;
         color: black;
@@ -88,16 +84,4 @@ p.link{
  h1{
      color: whitesmoke;
      font-family: sans-serif;
- }  
- p.about{
-     font-size: 0.2in;
-     color:white;
-     
-
- }   
- p.about2{
-    font-size: 0.2in;
-    
-    
-
-}    
+ }
